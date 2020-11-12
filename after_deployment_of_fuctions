@@ -1,0 +1,6 @@
+firebase deploy --only functions
+
+
+=> after deployment of functions copy the "Project console" link at the bottom of the terminal
+=> open it and copy the link of the firebase
+=> paste it in the file -> "axios.js"
