@@ -1,5 +1,9 @@
 firebase deploy --only functions
-
+# install stripe
+# install material ui
+# install react route Dom
+# install axios
+# install node modules(npm i node_modules)
 
 => after deployment of functions copy the "Project console" link at the bottom of the terminal
 => open it and copy the link of the firebase
